@@ -15,3 +15,5 @@ This project analyzes U.S. population data using Python and interactive visualiz
 - pip
 - virtualenv
 
+### Data Source 
+US Population data spanning the duration of 2010-2019 was obtained from the U.S. Census Bureau.
